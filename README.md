@@ -63,7 +63,7 @@ React Frontend → Nginx → Node/Express API → MongoDB
                              Redis
 Installation Guide
 1️⃣ Clone Repository
-git clone https://github.com/your-username/typing-speed-app.git
+https://github.com/GirishT25/Typing_Speed_Web_Application.git
 cd typing-speed-app
 
 2️⃣ Setup Backend
